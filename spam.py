@@ -11,10 +11,10 @@ w='\033[0m'
 __banner__ = ('''
   spam kita.bisa gan :V
 %s ###############################
- # %scode : Maoundis             %s#
- # %srecode: SalisM3             %s#
- # %stype : wa/email             %s#
- # %steam : xiuz.sec             %s#
+ # %sCode   : Maoundis             %s#
+ # %sRecode : Abd Rahman           %s#
+ # %sType   : wa/email             %s#
+ # %sFb     : fb.me/05thstar       %s#
  ###############################%s
     ''' % (c,w,c,w,c,w,c,w,c,w))
 
