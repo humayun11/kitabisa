@@ -42,7 +42,7 @@ class Mate_lampu():
             for angka in range(1,self.saapa+1):
             	for x in self.goblok:
             		self.spam_kuy(x,angka)
-            	time.sleep(10)
+            	time.sleep(240)
             quit('%s[%s#%s]%s selsai ,,,,' % (r,c,r,w))
             
         def uname(self):
